@@ -5,8 +5,7 @@ description: "The single authority on everything related to Miras Bat Mitzvahs."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url: "https://godzola.github.io"
-baseurl: "/MirasBatMitzvah/"
+url: "https://godzola.github.io/MirasBatMitzvah/"
 feed:
   path: atom.xml
 
