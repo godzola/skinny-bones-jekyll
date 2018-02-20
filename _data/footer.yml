@@ -1,4 +1,10 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: "Mira"
+  url: /about-mira/
+
+- title: "About CHD"
+  url: /about-chd/
+
+- title: "Get Involved"
+  url: /get-involved/

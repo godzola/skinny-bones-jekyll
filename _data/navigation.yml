@@ -1,6 +1,14 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: Mira
+  url: /about-mira/
+  excerpt: "A little about me and this site"
   image:
+
+- title: "About CHD"
+  url: /about-chd/
+  excerpt: "Information about the Congenital Heart Defect Association"
+
+- title: "Get Involved"
+  url: /get-involved/
+  excerpt: "What can you do to get involved"

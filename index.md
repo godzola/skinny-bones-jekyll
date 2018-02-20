@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Welcome to My Bat Mitzvah Site!"
 ---
 
 <div class="tiles">

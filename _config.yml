@@ -2,10 +2,13 @@
 
 title: "Mira's Official Bat Mitvah Website"
 description: "The single authority on everything related to Miras Bat Mitzvahs."
-logo: # 120x120 px default image used for Twitter summary card
+logo: CapitalM.png # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url: "/MirasBatMitzvah"
+# for prod
+# url: "/MirasBatMitzvah"
+url: ""
+
 feed:
   path: atom.xml
 
@@ -26,14 +29,14 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
+  name: "Mira"
+  email: "mirafzola@gmail.com"
   twitter:
   google:
     ad-client:
     ad-slot:
   bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  avatar: bio-photo.png # 160x160 px image for author byline
   disqus-shortname:
 
 
