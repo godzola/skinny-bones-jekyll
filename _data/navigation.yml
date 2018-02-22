@@ -3,12 +3,14 @@
 - title: Mira
   url: /about-mira/
   excerpt: "A little about me and this site"
-  image:
+  image: mira-400x250.png
 
 - title: "About CHD"
   url: /about-chd/
   excerpt: "Information about the Congenital Heart Defect Association"
+  image: heart-400x250.jpg
 
 - title: "Get Involved"
   url: /get-involved/
   excerpt: "What can you do to get involved"
+  image: get-involved-400x250.jpg

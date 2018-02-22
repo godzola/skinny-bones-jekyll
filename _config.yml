@@ -1,9 +1,11 @@
 # Site wide configuration
 
-title: "Mira's Official Bat Mitvah Website"
-description: "The single authority on everything related to Miras Bat Mitzvahs."
+title: "Mira's Bat Mitvah Website"
+description: "Making a difference for kids with congenital heart defects."
 logo: CapitalM.png # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+image:
+  feature: featured-img.jpg
+  teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
 # for prod
 # url: "/MirasBatMitzvah"
