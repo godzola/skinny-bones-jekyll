@@ -7,6 +7,7 @@ image: featured-img.jpg
 
 <div class="page-lead">
 	<img src="/MirasBatMitzvah/images/banner-1600x480.jpeg">
+	<!-- <img src="/images/banner-1600x480.jpeg"> -->
 	<!-- <div class="wrap page-lead-content">
         <h1>Mira's Bat Mitzvah Fundraiser</h1>
         <h2>Make a difference to kids with congenital heart defects.</h2>

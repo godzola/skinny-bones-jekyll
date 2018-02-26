@@ -9,7 +9,7 @@ image:
 locale: en
 # for prod
 url: "/MirasBatMitzvah"
-#url: ""
+# url: ""
 
 feed:
   path: atom.xml
