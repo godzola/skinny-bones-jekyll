@@ -9,6 +9,5 @@ image:
 {% include toc.html %}
 
 <h3>This is a test for the archive layout</h3>
-
-
+reload the page
 Here's how you can help - go to this site and click on the paypal link. Donate Now!
