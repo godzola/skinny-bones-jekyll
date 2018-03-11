@@ -1,10 +1,13 @@
 # Footer navigation links
 
-- title: "Mira"
+- title: "About Mira"
   url: /about-mira/
 
-- title: "About CHD"
-  url: /about-chd/
+- title: "CHD Coalition"
+  url: /about-chd-coalition/
 
 - title: "Get Involved"
   url: /get-involved/
+
+- title: "Congenital Heart Defects"
+  url: /congenital-heart-defects/

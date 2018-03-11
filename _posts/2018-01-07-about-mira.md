@@ -1,5 +1,5 @@
 ---
-title: A little bit about me
+title: About Me
 layout: media
 excerpt: This is a teaser about you, or whatever you want. Maybe soething a little eye-catching... up to you
 image:
