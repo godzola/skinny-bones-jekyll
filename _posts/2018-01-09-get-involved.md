@@ -3,7 +3,7 @@ title: Get Involved
 layout: archive
 excerpt: If you realy want to make a difference, it's easy. I am doing it and you can too!
 image:
-  teaser: get-involved-400x250.jpg
+  teaser: get-involved-text-400x250.jpg
 ---
 
 {% include toc.html %}
