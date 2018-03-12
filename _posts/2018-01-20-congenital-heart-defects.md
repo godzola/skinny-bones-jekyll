@@ -3,7 +3,7 @@ title: Congenital Heart Defects
 layout: media
 excerpt: This page is all about congenital heart defects
 image:
-  teaser: mira-400x250.png
+  teaser: heartbeat-scaled.jpg
 ---
 
 {% include toc.html %}
