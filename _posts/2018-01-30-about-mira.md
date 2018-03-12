@@ -3,7 +3,7 @@ title: About Me
 layout: media
 excerpt: This is a teaser about you, or whatever you want. Maybe soething a little eye-catching... up to you
 image:
-  teaser: mira-400x250.png
+  teaser: CapM-400x250.jpg
 ---
 
 {% include toc.html %}
