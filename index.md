@@ -14,3 +14,5 @@ image: featured-img.jpg
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+
+

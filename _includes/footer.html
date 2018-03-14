@@ -1,4 +1,5 @@
 <footer role="contentinfo" id="site-footer">
+	{% if page.donate != false %}{% include donate.html %}{% endif %}
 	<nav role="navigation" class="menu bottom-menu">
 		<ul class="menu-item">
 		{% for link in site.data.footer %}
