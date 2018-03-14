@@ -1,6 +1,8 @@
 ---
 title: Get Involved
-layout: 
+layout: media
+share: false
+donate: false
 excerpt: If you realy want to make a difference, it's easy. I am doing it and you can too!
 image:
   teaser: get-involved-text-400x250.jpg
@@ -8,6 +10,8 @@ image:
 
 {% include toc.html %}
 
-<h3>This is a test for the archive layout</h3>
-reload the page
 Here's how you can help - go to this site and click on the paypal link. Donate Now!
+
+[![Help a child or a family](/images/red-donate-button-178-37.png)](https://events.chdcoalition.org/index.cfm?fuseaction=donate.general)
+
+
