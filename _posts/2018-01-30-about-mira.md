@@ -1,6 +1,6 @@
 ---
 title: About Me
-layout: archive
+layout: media
 excerpt: Hi my name is Mira Zola and click on the picture above to learn a little bit about me!
 image:
   teaser: CapM-400x250.jpg

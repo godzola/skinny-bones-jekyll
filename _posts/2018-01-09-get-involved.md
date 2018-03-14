@@ -1,6 +1,6 @@
 ---
 title: Get Involved
-layout: archive
+layout: 
 excerpt: If you realy want to make a difference, it's easy. I am doing it and you can too!
 image:
   teaser: get-involved-text-400x250.jpg

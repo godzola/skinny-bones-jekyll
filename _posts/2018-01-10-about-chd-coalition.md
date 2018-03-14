@@ -1,6 +1,6 @@
 ---
 title: About CHD Coalition
-layout: archive
+layout: media
 excerpt: For my Mitzvah Project I decided to work with a non profit organization called the CHD Coalition. Here you can learn all about the CHD Coalition and their mission!
 image:
   teaser: CHDC_Logo_RGB_400x247.jpg
