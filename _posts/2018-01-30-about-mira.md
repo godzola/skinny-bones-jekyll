@@ -1,7 +1,7 @@
 ---
 title: About Me
-layout: media
-excerpt: This is a teaser about you, or whatever you want. Maybe soething a little eye-catching... up to you
+layout: archive
+excerpt: Hi my name is Mira Zola and click on the picture above to learn a little bit about me!
 image:
   teaser: CapM-400x250.jpg
 ---

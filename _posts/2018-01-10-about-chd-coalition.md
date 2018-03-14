@@ -1,7 +1,7 @@
 ---
 title: About CHD Coalition
-layout: article
-excerpt: This is a whole bunch of text thats will be cut off at 160 characters, just a bit bigger than a tweet.
+layout: archive
+excerpt: For my Mitzvah Project I decided to work with a non profit organization called the CHD Coalition. Here you can learn all about the CHD Coalition and their mission!
 image:
   teaser: CHDC_Logo_RGB_400x247.jpg
 ---
