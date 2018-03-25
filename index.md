@@ -6,7 +6,7 @@ image: featured-img.jpg
 ---
 
 <div class="page-lead">
-	<img src="/images/banner-1600x480-mira-face.jpg">
+	<img src="/images/banner-fact-1600-720-face.jpg">	
 </div><!-- /.page-lead -->
 
 <div class="tiles">
